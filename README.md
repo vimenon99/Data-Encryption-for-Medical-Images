@@ -1,4 +1,3 @@
-```markdown
 # Cryptographic and Image Processing Project
 
 This project involves a series of cryptographic and image processing tasks, including RSA key pair generation, DNA encoding/decoding, image steganography, and wavelet compression. The goal is to demonstrate various techniques in data security and image processing.
@@ -80,7 +79,6 @@ This project involves a series of cryptographic and image processing tasks, incl
     public_key = load_public_key('public_key.pem')
     ```
 
-
 ## Acknowledgements
 
 - [Cryptography](https://cryptography.io/)
@@ -88,4 +86,3 @@ This project involves a series of cryptographic and image processing tasks, incl
 - [Pillow](https://pillow.readthedocs.io/en/stable/)
 - [PyWavelets](https://pywavelets.readthedocs.io/en/latest/)
 - [TensorFlow](https://www.tensorflow.org/)
-```

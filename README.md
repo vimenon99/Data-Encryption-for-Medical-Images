@@ -37,12 +37,8 @@ This project involves a series of cryptographic and image processing tasks, incl
 
 ## Installation
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/yourrepository.git
-    ```
 
-2. **Install dependencies**:
+1. **Install dependencies**:
     ```bash
     pip install pycryptodome pandas cryptography pillow stepic opencv-python pywavelets matplotlib tensorflow
     ```
